@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+>
+
+  <!-- This is figure  skate-->
+  <image imageURL="img/about/tooth_books.png"
+	thumbURL="img/tooth_books.png"
+	linkURL="img/tooth_books.png"
+	linkTarget="_blank">
+	<title> Tooth</title>
+  </image>
+  
+  <video controls>  <source src="img/about/Insta Skating.mov" type="video/mp4">
+  <source src="img/about/Insta Skating.mov" type="video/ogg">
+  		thumbURL="img/tooth_books.png"
+	linkURL="img/tooth_books.png"
+<title> Tooth</title>
+</video>
+
+</juiceboxgallery>
